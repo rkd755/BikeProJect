@@ -21,7 +21,7 @@ class FreeFoodTableViewController: UITableViewController, XMLParserDelegate {
     
     //추가
     var contents = NSArray()
-    //여기까지
+    //여기까지 추가
     
     override func viewDidLoad() {
         super.viewDidLoad()
